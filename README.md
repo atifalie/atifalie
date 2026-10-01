@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Atif Ali — Full Stack Developer. Laravel, React, Vue and Python. Based in Pakistan." />
+<img src="header.svg" width="100%" alt="Atif Ali — Full Stack Developer. Laravel, React, Vue and Python. Based in Pakistan." />
 
 <p align="center">
   <a href="https://github.com/atifalie?tab=repositories"><b>Explore my repositories ↗</b></a>
@@ -14,7 +14,7 @@ My toolkit includes **Laravel Reverb, Redis, and Kafka** for real-time and backg
 
 I enjoy following a feature all the way through: from the database and business logic to the API and the person using it.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## What I work on
 
@@ -50,7 +50,7 @@ Python, Docker, Kubernetes, and Linux. Exploring AI-powered developer tools and 
 </table>
 
 <br />
-<img src="assets/stack.svg" width="100%" alt="Toolbox: React, Vue.js, Quasar, Tailwind CSS, PHP, Laravel, JavaScript, Node.js, Python, GraphQL, Reverb, Redis, Kafka, MySQL, Docker, Kubernetes, Linux and Git." />
+<img src="stack.svg" width="100%" alt="Toolbox: React, Vue.js, Quasar, Tailwind CSS, PHP, Laravel, JavaScript, Node.js, Python, GraphQL, Reverb, Redis, Kafka, MySQL, Docker, Kubernetes, Linux and Git." />
 
 ## From my workspace
 
@@ -60,11 +60,11 @@ Python, Docker, Kubernetes, and Linux. Exploring AI-powered developer tools and 
 | **[laraql-relation-ordering ↗](https://github.com/atifalie/laraql-relation-ordering)** | My fork of LaraQL, focused on relation ordering. |
 | **[portfolio ↗](https://github.com/atifalie/portfolio)** | My personal portfolio repository, built with TypeScript. |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ### Let's connect through code
 
 Interested in full stack development, real-time applications, APIs, or developer tooling? Explore my repositories and join the conversation on a relevant issue or pull request.
 
 <br />
-<img src="assets/footer.svg" width="100%" alt="Understand the problem. Build with purpose. Code. Learn. Improve." />
+<img src="footer.svg" width="100%" alt="Understand the problem. Build with purpose. Code. Learn. Improve." />
