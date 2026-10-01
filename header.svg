@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img">
+<title>Atif Ali — Full Stack Developer</title>
+<defs><linearGradient id="accent"><stop stop-color="#64f4c5"/><stop offset="1" stop-color="#64b5ff"/></linearGradient><radialGradient id="glow"><stop stop-color="#16413e" stop-opacity=".6"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#233146" stroke-width=".5"/></pattern></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}.orbit{animation:orbit 12s linear infinite}.blink{animation:blink 1.5s steps(2,end) infinite}@keyframes orbit{to{stroke-dashoffset:-2600}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){.orbit,.blink{animation:none}}</style>
+
+<rect x="1" y="1" width="958" height="358" rx="22" fill="#0b1220" stroke="#263448"/>
+<rect x="2" y="2" width="956" height="356" rx="21" fill="url(#grid)"/>
+<ellipse cx="760" cy="100" rx="340" ry="240" fill="url(#glow)"/>
+<rect class="orbit" x="2" y="2" width="956" height="356" rx="21" fill="none" stroke="url(#accent)" stroke-width="2" stroke-dasharray="210 2390"/>
+<circle cx="42" cy="42" r="4" fill="#64f4c5"/><text x="56" y="47" fill="#9faec3" font-size="12" letter-spacing="2" class="mono">ATIFALIE / DEVELOPER PROFILE</text>
+<text x="40" y="127" fill="#f1f6ff" font-weight="700" font-size="66" letter-spacing="-3">Atif Ali<tspan fill="#64f4c5">.</tspan></text>
+<text x="43" y="166" fill="#64f4c5" font-size="20">Full Stack Developer.</text>
+<text x="43" y="205" fill="#a4b2c6" font-size="16">From responsive interfaces</text>
+<text x="43" y="230" fill="#a4b2c6" font-size="16">to APIs and connected services.</text>
+<rect x="43" y="267" width="110" height="31" rx="15" fill="#17312f" stroke="#2b6254"/><text x="98" y="287" text-anchor="middle" font-size="12" fill="#83f5d2" class="mono">LARAVEL</text>
+<rect x="163" y="267" width="110" height="31" rx="15" fill="#152539" stroke="#28405b"/><text x="218" y="287" text-anchor="middle" font-size="12" fill="#94caff" class="mono">REACT</text>
+<rect x="283" y="267" width="110" height="31" rx="15" fill="#152539" stroke="#28405b"/><text x="338" y="287" text-anchor="middle" font-size="12" fill="#94caff" class="mono">VUE.JS</text>
+<rect x="535" y="80" width="382" height="218" rx="12" fill="#0a101b" stroke="#2c4051"/>
+<path d="M535 115H917" stroke="#243247"/><circle cx="555" cy="98" r="4" fill="#fb8e98"/><circle cx="569" cy="98" r="4" fill="#eecb7d"/><circle cx="583" cy="98" r="4" fill="#64f4c5"/>
+<text x="611" y="102" fill="#7f91a9" font-size="11" class="mono">atif@workspace: ~</text>
+<g class="mono" font-size="13"><text x="556" y="145" fill="#64f4c5">$ php artisan about --only=focus</text><text x="556" y="181" fill="#8194ac">01 <tspan fill="#dce6f5">Laravel / Node.js / Python</tspan></text><text x="556" y="208" fill="#8194ac">02 <tspan fill="#dce6f5">Reverb / Redis / Kafka</tspan></text><text x="556" y="235" fill="#8194ac">03 <tspan fill="#dce6f5">Docker / Kubernetes</tspan></text><text x="556" y="274" fill="#64f4c5">$ <tspan class="blink">_</tspan></text></g>
+<text x="43" y="333" fill="#697e97" font-size="10" letter-spacing="2" class="mono">PAKISTAN   /   LARAVEL + PYTHON   /   REACT + VUE</text>
+</svg>
